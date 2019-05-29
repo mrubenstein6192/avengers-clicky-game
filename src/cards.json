@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Spiderman",
+    "image": "images/spiderman.png",
+    "clicked": false
+    
+  },
+  {
+    "id": 2,
+    "name": "Antman",
+    "image": "images/antman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Black Panther",
+    "image": "images/black_panther.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Black Widow",
+    "image": "images/black_widow.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Captain America",
+    "image": "images/captain_america.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Captain Marvel",
+    "image": "images/captain_marvel.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Deadpool",
+    "image": "images/deadpool.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Dr. Strange",
+    "image": "images/dr_strange.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Gamora",
+    "image": "images/gamora.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Incredible Hulk",
+    "image": "images/hulk.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Iron Man",
+    "image": "images/iron_man.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Jean Grey",
+    "image": "images/jean_grey.jpg",
+    "clicked": false
+  }
+]
