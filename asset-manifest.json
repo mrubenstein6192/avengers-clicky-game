@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/avengers-clicky-game/static/js/main.777e8533.chunk.js",
+    "main.js.map": "/avengers-clicky-game/static/js/main.777e8533.chunk.js.map",
+    "runtime~main.js": "/avengers-clicky-game/static/js/runtime~main.161e569d.js",
+    "runtime~main.js.map": "/avengers-clicky-game/static/js/runtime~main.161e569d.js.map",
+    "static/js/2.5996a945.chunk.js": "/avengers-clicky-game/static/js/2.5996a945.chunk.js",
+    "static/js/2.5996a945.chunk.js.map": "/avengers-clicky-game/static/js/2.5996a945.chunk.js.map",
+    "index.html": "/avengers-clicky-game/index.html",
+    "precache-manifest.5ec5513f0a11b2a5179b1aa005523378.js": "/avengers-clicky-game/precache-manifest.5ec5513f0a11b2a5179b1aa005523378.js",
+    "service-worker.js": "/avengers-clicky-game/service-worker.js"
+  }
+}
